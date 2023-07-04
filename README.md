@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm dani</h1>
+<h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend/backend developer from Germany</h3>
 
 - 🌱 I’m currently learning **Web & App Development @WBS Coding School**
