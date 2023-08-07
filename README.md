@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend/backend developer </h3>
 
-- 🌱 I’m currently learning **Web & App Development @WBS Coding School**
+- 🌱 I have recently completed **Web & App Development BootCamp  @WBS Coding School**
 
 
 <h3 align="left">Connect with me:</h3>
