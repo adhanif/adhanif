@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">A passionate frontend/backend developer </h3>
 
-- 🌱 I have recently completed **Web & App Development BootCamp  @WBS Coding School**
+- 🌱 I have a passion for unraveling puzzles and acquiring fresh knowledge.
 
 
 # CodewarsBadge
